@@ -28,7 +28,7 @@ GMXOpenInterest().run_app()
 ```python
 from gmx_fess from GMXFees
 
-Gmx().run_fees_app()
+GMXFees().run_fees_app()
 ```
 
 ```python
